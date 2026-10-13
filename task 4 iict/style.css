@@ -1,0 +1,54 @@
+
+body {
+  background-color: powderblue;
+  font-family: Arial, sans-serif;
+}
+
+#header {
+  text-align: right;
+  padding: 10px;
+}
+
+#header h1 {
+  color: teal;
+  font-weight: bold;
+}
+
+.subtitle {
+  color: darkcyan;
+}
+
+#sidebar {
+  float: left;
+  width: 150px;
+  background-color: lightcyan;
+  border: 1px solid teal;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.box-title {
+  font-weight: bold;
+  color: darkblue;
+}
+
+#content {
+  margin-left: 180px;
+}
+
+.journal-box {
+  background-color: white;
+  border: 1px solid lightblue;
+  margin-bottom: 20px;
+  padding: 15px;
+}
+
+.journal-box h2 {
+  color: darkblue;
+font-family:Georgia,serif;
+}
+.journal-box img{
+float:right;
+margin-left:10px;
+}
+
